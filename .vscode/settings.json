@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "venv/bin/python",
+    "python.pythonPath": "/Users/vvetshte/Projects/PythonSnippets/venv/bin/python3",
     "workbench.colorCustomizations": {
         "activityBar.background": "#2E245F",
         "titleBar.activeBackground": "#413285",
