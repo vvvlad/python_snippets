@@ -1,3 +1,14 @@
 {
-    "python.pythonPath": ".venv\\Scripts\\python.exe"
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.testing.pytestArgs": [
+        "testing"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#322F08",
+        "titleBar.activeBackground": "#45410B",
+        "titleBar.activeForeground": "#FCFBEC"
+    }
 }
