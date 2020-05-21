@@ -6,9 +6,10 @@
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true,
+
     "workbench.colorCustomizations": {
-        "activityBar.background": "#322F08",
-        "titleBar.activeBackground": "#45410B",
-        "titleBar.activeForeground": "#FCFBEC"
+        "activityBar.background": "#2E245F",
+        "titleBar.activeBackground": "#413285",
+        "titleBar.activeForeground": "#FAF9FD"
     }
 }
