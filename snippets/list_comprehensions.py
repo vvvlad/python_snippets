@@ -22,3 +22,40 @@ print([x for x in aList if x % 2 == 1])
 # [1, 3, 5, 7, 9]
 # [1, 3, 5, 7, 9]
 
+# ============================================================= more examples
+
+# Condition criterion
+# [expression for item in iterable if condition]
+ # The same list of integers
+integers = [1, 2, 3, 4, 5, 6]
+ # Create a list of squares for even numbers only
+squares_of_evens = [x*x for x in integers if x % 2 == 0]
+print((squares_of_evens))
+# [4, 16, 36]
+
+
+# Conditional exprecsions
+# [expression0 if condition else expression1 for item in iterable]
+ # The list of integers
+integers = [1, 2, 3, 4, 5, 6]
+ # Create a list of numbers, when the item is even, take the square
+ # when the item is odd, take the cube
+custom_powers = [x*x if x % 2 == 0 else pow(x, 3) for x in integers]
+print(custom_powers)
+# [1, 4, 27, 16, 125, 36]
+
+# Nested
+# [expression for item_outer in iterable for item_inner in item_outer]
+
+# Equivalent to
+# for item_outer in iterable:
+#     for item_inner in item_outer:
+#         expression
+
+
+ # A list of tuples
+prices = [('$5.99', '$4.99'), ('$3.5', '$4.5')]
+ # Flattened list of prices
+prices_formatted = [float(x[1:]) for price_group in prices for x in price_group]
+print(prices_formatted)
+# [5.99, 4.99, 3.5, 4.5]

@@ -5,3 +5,5 @@
 [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
 
 [Tenacity: retry decorator](https://github.com/jd/tenacity)
+
+[pipdeptree  displaying the installed python packages in form of a dependency tree](https://github.com/naiquevin/pipdeptree)
