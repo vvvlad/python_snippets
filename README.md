@@ -7,3 +7,7 @@
 [Tenacity: retry decorator](https://github.com/jd/tenacity)
 
 [pipdeptree  displaying the installed python packages in form of a dependency tree](https://github.com/naiquevin/pipdeptree)
+
+[yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly
+
+[orjson](https://github.com/ijl/orjson) - orjson is a fast, correct JSON library for Python
