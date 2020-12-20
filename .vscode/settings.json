@@ -12,5 +12,6 @@
         "titleBar.activeBackground": "#413285",
         "titleBar.activeForeground": "#FAF9FD"
     },
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "python.formatting.provider": "black"
 }
