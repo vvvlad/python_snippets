@@ -51,7 +51,7 @@ def dec3(name="Liya"):
 # print(dec3())
 
 ####################################
-# decorator with arguments
+# decorator with generic arguments
 ####################################
 
 def repeat(*args_, **kwargs_):
@@ -66,6 +66,15 @@ def repeat(*args_, **kwargs_):
 
     return inner_function
 
+@repeat(2)
+def dec4(name="Liya"):
+    print(f"Name is {name}")
+
+# dec4()
+
+####################################
+# decorator with named arguments
+####################################
 def repeat2(reps=3, param2=5, param3=6):
 
     def inner_function(func):
@@ -78,13 +87,8 @@ def repeat2(reps=3, param2=5, param3=6):
 
     return inner_function
 
-@repeat(2)
-def dec4(name="Liya"):
-    print(f"Name is {name}")
-
 @repeat2(param2=7)
 def dec5(name="Liya"):
     print(f"Name is {name}")
 
-# dec4()
 dec5()
