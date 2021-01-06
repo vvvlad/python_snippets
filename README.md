@@ -18,6 +18,8 @@
 
 [osi.ig] (https://github.com/th3unkn0n/osi.ig) - The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile.
 
+[depix](https://github.com/beurtschipper/Depix) - Depix is a tool for recovering passwords from pixelized screenshots.
+
 ## DS
 
 [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from a pandas DataFrame.
