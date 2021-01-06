@@ -16,6 +16,7 @@
 
 [orjson](https://github.com/ijl/orjson) - orjson is a fast, correct JSON library for Python
 
+[depix](https://github.com/beurtschipper/Depix) - Depix is a tool for recovering passwords from pixelized screenshots.
 
 ## DS
 
