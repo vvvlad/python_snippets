@@ -95,4 +95,6 @@ def repeat2(reps=3, param2=5, param3=6):
 def dec5(name="Liya"):
     print(f"Name is {name}")
 
+test = repeat2
+
 dec5()
