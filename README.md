@@ -20,6 +20,8 @@
 
 [depix](https://github.com/beurtschipper/Depix) - Depix is a tool for recovering passwords from pixelized screenshots.
 
+[faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.
+
 ## DS
 
 [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from a pandas DataFrame.
