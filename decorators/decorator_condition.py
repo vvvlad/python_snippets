@@ -85,4 +85,6 @@ print(first)
 is_local = False
 print(f"second execution")
 second = sayHello("again", "say", "hello","")
-print(second)
+
+print(noargs.__name__)
+print(sayHello.__name__)
