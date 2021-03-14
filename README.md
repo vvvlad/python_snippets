@@ -16,7 +16,7 @@
 
 [orjson](https://github.com/ijl/orjson) - orjson is a fast, correct JSON library for Python
 
-[osi.ig] (https://github.com/th3unkn0n/osi.ig) - The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile.
+[osi.ig](https://github.com/th3unkn0n/osi.ig) - The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile.
 
 [depix](https://github.com/beurtschipper/Depix) - Depix is a tool for recovering passwords from pixelized screenshots.
 
@@ -24,6 +24,7 @@
 
 [deptree](https://github.com/sinoroc/deptree) - analyse package dependency tree.
 
+[jmespath](https://pypi.org/project/jmespath/) - json extract language [web](https://jmespath.org/)
 
 ## Python
 
