@@ -22,6 +22,8 @@
 
 [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.
 
+(marshmallow and desert)[https://gist.github.com/jessicachenfan/b956ee3d0710582254f81c50aa9f4812#file-step_5_with_desert-py] - for dataclass validation  
+
 ## DS
 
 [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Generates profile reports from a pandas DataFrame.
