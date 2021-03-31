@@ -28,6 +28,9 @@
 
 [jmespath](https://pypi.org/project/jmespath/) - json extract language [web](https://jmespath.org/)
 
+[memory_profiler](https://github.com/pythonprofilers/memory_profiler) - This is a python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs. 
+
+
 ## Python
 
 [awesome python](https://github.com/kirang89/pycrumbs)
