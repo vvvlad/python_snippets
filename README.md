@@ -30,6 +30,12 @@
 
 [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - This is a python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs. 
 
+[tabulate](https://pypi.org/project/tabulate/) - pretty print tabled data 
+
+[Missingno](https://github.com/ResidentMario/missingno) - Messy datasets? Missing values? missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset.
+
+[wget](https://pypi.org/project/wget/) - download files
+
 
 ## Python
 
