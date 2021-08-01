@@ -74,3 +74,8 @@
 
 [Auto generate license files](https://github.com/captainsafia/legit)
 [redis cli tool](https://github.com/laixintao/iredis)
+
+
+# Other
+
+[AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist)
